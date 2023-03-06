@@ -9,17 +9,16 @@
 
         <link href="" type="text/css" rel="stylesheet">
         
-        <link href="skeletonp2.css" type="text/css" rel="stylesheet">
+        <link href="skeleton.css" type="text/css" rel="stylesheet">
         
-        <link href="stylesproject2.css" type="text/css" rel="stylesheet">
+        <link href="stylessheet.css" type="text/css" rel="stylesheet">
         
         
-
         <!-- Google Webfont links -->
 
-        <link rel="preconnect" href="https://fonts.gstatic.com">
-
-        <link href="https://fonts.googleapis.com/css2?family=Coda+Caption:wght@800&family=PT+Sans+Narrow:wght@400;700&display=swap" rel="stylesheet">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap" rel="stylesheet">
 
     </head>
 
@@ -30,8 +29,6 @@
                 <ul>
                     <li><a href="" target="_blank">link</a></li>
                     <li><a href="" target="_blank">link2</a></li>
-                    <li><a href="" target="_blank">link3</a></li>
-                    <li><a href="" target="_blank">link4</a></li>
                 </ul>
             </nav>
 
@@ -60,7 +57,7 @@
                 
                 
                 
-                <img id="razorCrest" src="sun.jpg" />
+                <img id="sun" src="sun.jpg" />
                 
             </div>
             
@@ -94,20 +91,6 @@
                 </div>
         </div>
             
-        <div class="row">    
-            
-                <div class="six columns">
-                    <img class="u-full-width" src="blueplanet.jpg"/>
-                </div>
-            
-                <div class="six columns">                    
-                    
-                        <h4>spring?</h4>
-                        <p>purp.</p>
-                    
-                    
-                </div>
-        </div>
                 
         <div class="row">
             
